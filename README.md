@@ -44,5 +44,13 @@ You can click the Preview link to take a look at your changes.
 - Tensorflow
 - Keras
 - PyTorch
-- SkLearn
+
+### 📚 Libraries
+
+- OpenCV
+- Scikit-Learn
+- Numpy
+- Matlab
+- Pandas
+- Matplotlib
 - Seaborn
