@@ -14,7 +14,7 @@ Bangalore, Karnataka 560100 \
 - Worked with a dynamic team ensuring proper wind turbine functionality for a leading manufacturer.
 - Responsible for analyzing troubleshooting data and conducted extensive Exploratory Data Analysis (EDA) to identify trends and patterns in the data, contributing valuable insights to prevent downtime.
 - Applied advanced statistical and machine learning techniques for data-driven decision-making.
-- Tools Used: Python, MS Excel
+- Tools Used: Python, MS Excel, SQL
 
 ## Education
 
