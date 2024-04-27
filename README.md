@@ -1,56 +1,51 @@
-## 👋 Hi, I’m Anand Krishna...
+# Anand Krishna
 
-Currently pursuing MSc. in Statistics and Computing from Banaras Hindu University. I'm a ML enthusiast with hands-on experience in building models on real world data using Python.
-- 👀 I’m interested in application of Machine Learning models on edge devices
-<!---
-- 🌱 I’m currently learning various feature selection methods
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? - You can contact me on 
+[LinkedIn Profile](https://www.linkedin.com/in/anand-krishna99/)
 
-AnandKri/AnandKri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/anand-krishna99/)!
-- ⚡ Fun facts about me- I'm an amateur astrophotographer. I occasionally write articles on my astronomy blog - [IndianSky](https://www.indiansky.in).
+Bangalore, Karnataka 560100 \
+(+91)838189XXXX \
+
+## Work Experience
+
+### Genpact, Bangalore
+*July 2023*
+
+- Business Analyst
+- Worked with a dynamic team ensuring proper wind turbine functionality for a leading manufacturer.
+- Responsible for analyzing troubleshooting data and conducted extensive Exploratory Data Analysis (EDA) to identify trends and patterns in the data, contributing valuable insights to prevent downtime.
+- Applied advanced statistical and machine learning techniques for data-driven decision-making.
+- Tools Used: Python, MS Excel
 
 ## Education
-| Degree Name                        |	University               |	Year            |
-|------------------------------------|---------------------------|------------------|
-|MSc. in Statistics and Computing    |  Banaras Hindu University |  Pursuing        |
-|BSc. Statistics (Hons.)             |	Banaras Hindu University |	2021            |
+
+### Banaras Hindu University, Varanasi
+- Institute of Science
+- MSc. in Statistics and Computing, 2023
+  - CGPA: 7.85
+- BSc. Statistics (Hons.), 2021
+  - CGPA: 7.85
 
 ## Projects
 
-### Music Genre Recognition
-- An ongoing project where DNN were trained on GTZAN dataset for music genre prediction. Used T-SNE to visualize high-dimensional data and Euclidean distance and Fast-Correlation Based Filter for feature selection.
+### Hierarchical Music Genre Classification
+*April 2023*
+- Developed a hierarchical classification model for categorizing songs into root genres and sub-genres.
+- Applied a Selective Top-Down Approach to efficiently address the classification challenge.
+- Successfully trained SVM, K-NN, and MLP algorithms on a high-dimensional dataset of 50,000 songs, achieving accuracies ranging from 0.65 to 0.58 at non-leaf nodes.
+- Currently preparing a research paper for publication.
 
-### Housing Prices Prediction
+## Technical Strengths
+- Programming Languages: Python, C++, R, JavaScript, HTML, CSS, FORTRAN, SAS
+- Tools & Technologies: MS Excel, Data Analysis, Machine Learning, Version Control
+- CS Fundamentals: Data Structures and Algorithms, Problem Solving
 
-- The objective was to predict house prices using regression techniques. Used Spearman rank correlation to find non-linearly correlated features. Fitted Ridge regression model on the selected features.
+## Online Courses
+- [ISI Winter School on Deep Learning 2022](https://drive.google.com/file/d/1M77_AzjjTb8zuEhyEUSNAiw03awHWR0S/view)
+  - Gained foundational knowledge in Deep Learning, including NLP, Image Processing, and CNN.
+- [Data Science for Engineers (NPTEL)](https://drive.google.com/file/d/1eoFgHsqgC5myfTMxYrDfjMGUMNHj3-kY/view?usp=sharing)
+  - Acquired fundamental data science concepts, hypothesis testing, regression, classification, and clustering.
 
-### Classification of Astronomical Objects
-- The project aims at classifying astronomical objects by analyzing their observational data. Applied feature engineering and feature generation. Trained K-Nearest Neighbors, Decision Trees and Neural Networks on the data and compared the performance of all three algorithms.
-
-## Languages/Frameworks
-### ⌨️ Languages
-
-- Python
-- R
-- MATLAB
-- C
-
-### ⚙️ Frameworks
-
-- Tensorflow
-- Keras
-- PyTorch
-
-### 📚 Libraries
-
-- OpenCV
-- Scikit-Learn
-- Numpy
-- Matlab
-- Pandas
-- Matplotlib
-- Seaborn
+## Achievements
+- Solved over 500 problems on [Leetcode](https://leetcode.com/anandkrishna/), [HackerRank](https://www.hackerrank.com/anand_krishna081), and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/anandkrishna0802/). Covered topics like recursion, backtracking, sorting, trees, linked lists, heaps, and dynamic programming.
+- Contributed to NASA's Sungrazer Project focused on comet discovery. Conducted real-time image processing on data received from NASA's SOHO orbiter, analyzing images for potential comets. Identified and reported previously undiscovered comets.
+- Over 6 years of experience in Astrophotography, and successfully sold self-shot Astrophotographs. Authored more than 25 astronomy articles on the blog [IndianSky](https://indiansky.in/), amassing a viewership of 7,000+.
